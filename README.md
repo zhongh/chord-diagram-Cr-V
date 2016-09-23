@@ -1,6 +1,9 @@
 # chord-diagram-Cr-V
 Chord diagrams of coexistence of chromium and vanadium minerals (using **R**)
 
+Go to: [Deeptime Jupyter notebook](https://deeptime.tw.rpi.edu/jupyter/notebooks/Cr_V/chord_diagram_Cr.ipynb)
+
+
 ## Data Preprocessing
 
 ### Original datasets:
